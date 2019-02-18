@@ -6,7 +6,7 @@ All hacking toolss in just one place
      hackers.empire_
 
 # methods
-git clone https://github.com/AnonHackerr/toolss.git
-cd toolss
-chmod +x Tools.py
-python Tools.py
+    git clone https://github.com/AnonHackerr/toolss.git
+    cd toolss
+    chmod +x Tools.py
+    python Tools.py
