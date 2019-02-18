@@ -1,2 +1,4 @@
-# hacking-toolss
+#wajahat-tools
+
+Automatic hacking tools installer for Android [ONLY FOR TERMUX]
 All hacking toolss in just one place
