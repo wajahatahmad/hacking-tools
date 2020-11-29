@@ -33,7 +33,7 @@ ONLY FOR TERMUX!
 9. Install Weeman
 10. Install IPGeoLocation
 11. Install Cupp
-12. Instagram Bruteforcer (instahack)
+12. Instagram Bruteforcer (instagram)
 13. Twitter Bruteforcer   (TwitterSniper)
 14. Install Ubuntu
 15. Install Fedora
@@ -123,7 +123,7 @@ while loop:
             os.system("pkg install -y nano")
             os.system("pip install requests")
             os.system("pip install beautifulsoup4")
-            os.system("cd /data/data/com.termux/files/home && git clone https://github.com/avramit/instahack.git")
+            os.system("cd /data/data/com.termux/files/home && git clone https://github.com/wajahatahmad/instagram.git")
             os.system("pkg update -y")
             os.system("pkg install -y git")
             os.system("pkg install -y python")
@@ -339,10 +339,10 @@ while loop:
         os.system("pkg install -y nano")
         os.system("pip install requests")
         os.system("pip install beautifulsoup4")
-        os.system("cd /data/data/com.termux/files/home && git clone https://github.com/avramit/instahack.git")
+        os.system("cd /data/data/com.termux/files/home && git clone https://github.com/wajahatahmad/instagram.git")
         print("====================================")
-        print("[+] Instahack installed successfully :)")
-        print("[+] Go to instahack folder and type 'python hackinsta.py' to start.")
+        print("[+] Instagram installed successfully :)")
+        print("[+] Go to instagram folder and type 'python instagram.py' to start.")
         print("====================================")
         rmenu = input("[?] Back to Menu? (y/n): ")
         if rmenu == "y":
